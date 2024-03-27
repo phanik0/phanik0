@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 <!--
 **phanik0/phanik0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### - 🌱 지금배우는건 ...
+* java<br>
+* AutoCad<br>
+* Inventor<br>
+
+---
+
+### - ⚡전공
+기계공학과
+
+
+
