@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### - 🔭 참여중인 프로젝트
+### - 🔭 참여한 프로젝트
 * 의료영상 AI API연동 프로젝트 기반(java)풀스택 개발자과정(2023.12.27~2024.07.15)
 
 ---
 
 ### - 🌱 지금배우는건
-* java<br>
+* python<br>
 ### - 📫 할 수 있는것
 * AutoCad<br>
 * Inventor<br>
-* CATIA
+* CATIA<br>
+* JAVA, Spring<br>
 
 
 ---
